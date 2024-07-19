@@ -15,7 +15,7 @@ The dashboard should provide real-time insights into key performance indicators 
 •	MTD Cars Sold <br>
 •	YOY Growth in Cars Sold <br>
 •	Difference between YTD Cars Sold and PTYD Cars Sold <br>
-<br>
+
 Charts Requirement: <br>
 1.	YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount. <br>
 2.	YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart. <br>
@@ -23,4 +23,4 @@ Charts Requirement: <br>
 4.	YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically. <br>
 5.	Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures. <br>
 5.	Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures. <br>
-6.	Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
+6.	Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc.
